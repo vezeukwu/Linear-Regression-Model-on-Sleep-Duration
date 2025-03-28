@@ -1,4 +1,4 @@
-# Linear-Regression-Model-on-Sleep-Duration
+# Random-Forest-Regression-Model-on-Sleep-Duration
 
 ## Introduction
 
